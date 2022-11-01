@@ -1,17 +1,26 @@
-# mentalhealthapp
+## 📱 Mental Health App
 
-A new Flutter project.
+## 💻 Tecnologias usadas:
 
-## Getting Started
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## ℹ️ Projeto
+O mental health app é um projeto a fins de estudar a tecnologia Flutter e Dart e foi inspirado em um Design app do Dribble.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Mental-Health-App
+![image](https://user-images.githubusercontent.com/56551979/199258502-8a7690cb-d45e-49f8-9c29-9c454534c7f9.png)
+
+
+## App
+
+![Screenshot_1667312388](https://user-images.githubusercontent.com/56551979/199258977-4db11990-4353-4fb2-a2bd-9a529f5d7707.png)
+![Screenshot_1667312316](https://user-images.githubusercontent.com/56551979/199258985-1789d9d5-57b9-4b4e-99fe-ebdb5eeb62d5.png)
+
+
+## Links
+
+- https://dribbble.com/shots/15002657-Mental-Health-App
+- https://www.youtube.com/watch?v=eegl7of4g-o
